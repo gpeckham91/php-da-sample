@@ -28,7 +28,7 @@
             <img data-src="<?php echo base_url("assets/images/sb_4.jpg");?>" alt="900x500" src="<?php echo base_url("assets/images/banner-3.jpg");?>">
             <div class="carousel-caption">
                 <h3>Skate Boarding is Lame!!!</h3>
-                <p> Ker plaaaaaa!</p>
+                <p> Ker plaaaaaa!test</p>
             </div>
         </div>
     </div>
